@@ -1,9 +1,57 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.7.14">
   <diagram name="Page-1" id="YgfDyZsFHXUUgJRBgXVl">
-    <mxGraphModel>
+    <mxGraphModel dx="1362" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nVMSsHD33z3H_WmSgIgD-13" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Imagem&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Digital&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="230" y="60" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nVMSsHD33z3H_WmSgIgD-21" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Modelos&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Matemáticos,&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Descritores&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="610" y="60" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nVMSsHD33z3H_WmSgIgD-22" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=11;strokeWidth=4;" edge="1" parent="1" source="nVMSsHD33z3H_WmSgIgD-13" target="nVMSsHD33z3H_WmSgIgD-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="320" as="sourcePoint" />
+            <mxPoint x="640" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nVMSsHD33z3H_WmSgIgD-23" value="Processamento de Imagens" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="70" y="105" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nVMSsHD33z3H_WmSgIgD-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="nVMSsHD33z3H_WmSgIgD-21" target="nVMSsHD33z3H_WmSgIgD-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="220" as="sourcePoint" />
+            <mxPoint x="640" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nVMSsHD33z3H_WmSgIgD-26" value="Computação Gráfica" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="470" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nVMSsHD33z3H_WmSgIgD-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="nVMSsHD33z3H_WmSgIgD-13" target="nVMSsHD33z3H_WmSgIgD-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="290" as="sourcePoint" />
+            <mxPoint x="680" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nVMSsHD33z3H_WmSgIgD-29" value="Visão&lt;div&gt;Computacional&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="470" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nVMSsHD33z3H_WmSgIgD-35" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=11;strokeWidth=4;" edge="1" parent="1" source="nVMSsHD33z3H_WmSgIgD-21" target="nVMSsHD33z3H_WmSgIgD-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="202" y="70" as="sourcePoint" />
+            <mxPoint x="318" y="74" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="910" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nVMSsHD33z3H_WmSgIgD-36" value="Processamento&lt;div&gt;Geométrico&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="900" y="105" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
